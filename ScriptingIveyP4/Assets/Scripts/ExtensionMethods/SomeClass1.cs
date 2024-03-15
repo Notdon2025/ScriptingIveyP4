@@ -7,7 +7,7 @@ public class SomeClass1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        transform.ReseTransformation(); 
+        transform.ResetTransformation();
     }
 
     // Update is called once per frame
